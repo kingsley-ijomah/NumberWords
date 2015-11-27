@@ -1,0 +1,11 @@
+<h1>Numbers in Words</h1>
+
+<div id="number_words">
+	<% @numbers.each do |n| %>
+		<p><%= n %></p>
+	<% end %>
+</div>
+
+<nav id="paginate">
+	<p><%= paginate %></p>
+</nav>

@@ -1,0 +1,16 @@
+== Numbers in Words
+
+Functionalities covered:
+
+* List of numbers in words
+
+* Paginated records
+
+* Rspec tested
+
+* Features test
+
+* Controller test
+
+* Model test
+
